@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Varun Mocherla 👋
 
-<!--
-**varunmocherla-developer/varunmocherla-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 3+ years of experience building responsive and scalable web applications using React and JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- 💻 HTML5, CSS3
+- ⚡ JavaScript (ES6+)
+- ⚛️ React
+- 🔄 REST API Integration
+- 🌐 Responsive Web Design
+- 🗂 Git & GitHub
+
+---
+
+## 📂 Featured Projects
+(Projects coming soon 🚀)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: varunmocherla@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/varun-m-5220b2354/
+- 🌐 Portfolio: (Add Later)
